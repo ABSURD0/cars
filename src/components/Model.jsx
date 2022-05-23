@@ -3,7 +3,7 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import * as THREE from "three";
 
 const Model = (props) => {
-  const model = useLoader(GLTFLoader, process.env.PUBLIC_URL + +props.path);
+  const model = useLoader(GLTFLoader, process.env.PUBLIC_URL + props.path);
 
   model.scene.traverse((child) => {
     if (child.isMesh) {
