@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flying Trabant (Final Takeoff)
+* source:	https://sketchfab.com/3d-models/flying-trabant-final-takeoff-44de9112ce564d35be97a06c302a2fe3
+* author:	CG Boost (https://sketchfab.com/zreinhardt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flying Trabant (Final Takeoff)" (https://sketchfab.com/3d-models/flying-trabant-final-takeoff-44de9112ce564d35be97a06c302a2fe3) by CG Boost (https://sketchfab.com/zreinhardt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
