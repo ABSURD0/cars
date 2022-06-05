@@ -12,9 +12,9 @@ const Lights = ({}) => {
         position={[6, 3, 0]}
         // castShadow
       />
-      <Bulb position={[-6, 3, 0]} />
-      <Bulb position={[0, 3, 0]} />
-      <Bulb position={[6, 3, 0]} />
+      <Bulb position={[-10, 7, 0]} />
+
+      <Bulb position={[10, 7, 0]} />
     </>
   );
 };

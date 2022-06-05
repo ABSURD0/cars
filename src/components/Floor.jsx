@@ -2,7 +2,7 @@ import * as THREE from "three";
 import { useBox } from "@react-three/cannon";
 
 const Floor = (props) => {
-  const [ref, api] = useBox(() => ({ args: [20, 2, 10], ...props }));
+  const [ref, api] = useBox(() => ({ args: [200, 2, 50], ...props }));
   return (
     <mesh ref={ref} {...props} receiveShadow>
       <boxBufferGeometry args={[100, 2, 100]} />
